@@ -1,0 +1,9 @@
+#takeAction {
+  border-width: 2px!important;
+  border-radius: 1.5rem!important;
+}
+
+#headerImage {
+  padding: 0px !important;
+  background-image:url(header.jpg);
+}
